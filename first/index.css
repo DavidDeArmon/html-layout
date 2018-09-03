@@ -1,0 +1,26 @@
+.top{
+    background:rgb(61, 60, 60);
+    width:100%;
+    height:150px;
+    float:left;
+
+}
+.middle-container{
+    width:100%;
+    height:770px;
+    background:lightgrey;
+    float:left;
+    text-align: center;
+}
+.middle-one{
+    width: 70%;
+    height:670px;
+    background: rgb(243, 241, 241);
+    margin:auto;
+}
+.bottom{
+    background: rgb(39, 39, 39);
+    width:70%;
+    height:100px;
+    margin:auto
+}
